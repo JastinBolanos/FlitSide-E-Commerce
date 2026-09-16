@@ -1,10 +1,29 @@
-# FLITSIDE • Contemporary Fashion & Streetwear 👕✨
+<div align="center">
+  <img alt="FlitSide Banner" src="https://github.com/user-attachments/assets/ad0669e5-0bc6-43d1-ae15-7219f5d60def" width="40%" />
 
-> Modern digital fashion platform engineered to deliver an agile, aesthetic, and customer-focused shopping experience.
+  <br>
 
-![FlitSide Platform Interface](https://github.com/user-attachments/assets/b5d3507d-ca9c-4ccf-b4aa-8b24ce77d8d9)
+  <h3>Contemporary Fashion & Streetwear (v1.0.0-PROD)</h3>
 
----    
+  <p>
+    <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status" />
+    <img src="https://img.shields.io/badge/deployment-production-blue" alt="Deployment" />
+    <img src="https://img.shields.io/badge/version-1.0.0--PROD-orange" alt="Version" />
+    <img src="https://img.shields.io/badge/performance-optimized-success" alt="Performance" />
+  </p>
+</div>
+
+<br>
+
+> **Modern digital fashion platform engineered to deliver an agile, aesthetic, and customer-focused shopping experience.**
+
+<br>
+
+<div align="center">
+  <h3>🌍 <b><a href="https://flitside.vercel.app/">View Live Platform (Production) 🟢</a></b></h3>
+  <br>
+  <img alt="FlitSide Preview" src="https://github.com/user-attachments/assets/b5d3507d-ca9c-4ccf-b4aa-8b24ce77d8d9" width="80%" />
+</div>   
 
 ## 🎥 E-Commerce Platform Demo
 
