@@ -15,7 +15,8 @@
 
 <br>
 
-> **Modern digital fashion platform engineered to deliver an agile, aesthetic, and customer-focused shopping experience.**
+> **Digital Fashion Storefront & E-Commerce Interface Showcase.**  
+> A client-side web application designed to explore contemporary streetwear retail, featuring catalog filtering, interactive cart drawers, and clean checkout workflows.
 
 <br>
 
@@ -23,12 +24,12 @@
   <h3>🌍 <b><a href="https://flitside.vercel.app/">View Live Platform (Production) 🟢</a></b></h3>
   <br>
   <img alt="FlitSide Preview" src="https://github.com/user-attachments/assets/b5d3507d-ca9c-4ccf-b4aa-8b24ce77d8d9" width="80%" />
-</div>   
+</div>
 
 ## 🎥 E-Commerce Platform Demo
 
 **🎬 Interactive Shopping Experience & UI Walkthrough**  
-A detailed walkthrough of the user interface, showcasing the fluid motion transitions, intuitive catalog browsing, and the seamless checkout flow designed for high-conversion modern e-commerce.
+Walkthrough of the client interface: exploring collection browsing, category filters, interactive product details, cart slide-over interactions, and step-by-step checkout simulation.
 
 https://github.com/user-attachments/assets/b0840ec9-6de2-4755-933a-d24995c92e4e
 
@@ -36,37 +37,37 @@ https://github.com/user-attachments/assets/b0840ec9-6de2-4755-933a-d24995c92e4e
 
 ### 🌐 Overview
 
-**FlitSide** brings together urban apparel, premium footwear, and contemporary styling where comfort and curated design meet a clean, editorial digital atmosphere.
+**FlitSide** is a digital storefront project presenting curated apparel, footwear, and accessories through an editorial layout with clean typography and balanced white space.
 
-This repository powers the interactive interface and user experience (UX/UI) of the FlitSide ecosystem, optimized for seamless navigation, fluid transitions, and high-performance interaction across all modern devices.
+This repository contains the client-side user interface and interaction logic, built with modern frontend tools to deliver smooth navigation across mobile, tablet, and desktop screens.
 
 ---
 
 ### 🚀 Key Features
 
 * 🛍️ **Curated Collections & Catalog**
-  * Effortless category browsing: *T-Shirts, Pants, Jackets, Footwear, and Accessories*.
-  * Instant filtering by availability, price range, and seasonal new arrivals.
-  * Interactive size selector with comprehensive measurement and fabric care guides.
+  * Straightforward category navigation: *T-Shirts, Pants, Jackets, Footwear, and Accessories*.
+  * Filtering options by availability, price thresholds, and seasonal releases.
+  * Interactive size selector with sizing tables and fabric specifications.
 
-* 🛒 **Shopping Bag & Frictionless Checkout**
-  * Slide-over drawer with real-time stock sync and price calculation.
-  * Promotional discount code validation and flexible shipping tiers.
-  * Streamlined multi-step checkout with instant field validation and payment handling.
+* 🛒 **Shopping Bag & Checkout Flow**
+  * Slide-over cart drawer with dynamic item counts and subtotal recalculations.
+  * Discount code input and selectable shipping options.
+  * Multi-step checkout form with client-side field validation.
 
-* ✨ **Immersive Brand Experience**
-  * Signature welcome screen with dynamic typography and smooth entrance motion.
-  * High-precision micro-interactions powered by `motion`.
-  * High-contrast neutral color palette paired with editorial Syne display typography.
+* ✨ **Visual Identity & Design System**
+  * Editorial welcoming layout with clean header typography and entrance transitions.
+  * Subtle hover effects and modal animations supported by `motion`.
+  * High-contrast neutral color palette complemented by distinctive display fonts.
 
-* 📊 **Operations & Inventory Management**
-  * Clean control dashboard for live catalog monitoring.
-  * Real-time order tracking and fulfillment status updates.
-  * Warehouse stock control with automatic low-stock notifications.
+* 📊 **Operations & Inventory View**
+  * Lightweight administrative dashboard for reviewing product listings.
+  * Order status timeline tracking fulfillment checkpoints.
+  * Simulated inventory indicators highlighting low-stock items.
 
-* 📱 **Fully Responsive Architecture**
-  * Crafted with a Mobile-First philosophy.
-  * Flawless layout adaptation across smartphones, tablets, and wide desktop displays.
+* 📱 **Responsive Layout Design**
+  * Built using mobile-first layout principles.
+  * Consistent layout scaling across mobile viewports, tablets, and desktop displays.
 
 ---
 
