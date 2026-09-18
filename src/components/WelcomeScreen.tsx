@@ -51,7 +51,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onEnter }) => {
       </div>
 
       {/* Top Header Bar */}
-      <header className="relative z-10 w-full max-w-7xl mx-auto px-6 sm:px-8 py-6 sm:py-8 flex items-center justify-between">
+      <header className="relative z-10 w-full max-w-[1840px] mx-auto px-6 sm:px-8 xl:px-12 py-6 sm:py-8 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <FlitsideLogo className="h-5 sm:h-6 w-auto text-white/90" markOnly />
           <span className="text-xs font-semibold tracking-widest text-slate-300 uppercase">
@@ -61,7 +61,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onEnter }) => {
       </header>
 
       {/* Centerpiece: Giant FLITSIDE and Ingresar Button */}
-      <main className="relative z-10 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center justify-center text-center my-auto py-8">
+      <main className="relative z-10 w-full max-w-[1840px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-12 flex flex-col items-center justify-center text-center my-auto py-8">
         {/* Subtle Category Eyebrow */}
         <motion.div
           initial={{ opacity: 0, y: -16 }}
@@ -148,7 +148,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onEnter }) => {
       </main>
 
       {/* Bottom Bar: Brand Commitments */}
-      <footer className="relative z-10 w-full max-w-7xl mx-auto px-6 sm:px-8 py-6 sm:py-8 border-t border-white/10">
+      <footer className="relative z-10 w-full max-w-[1840px] mx-auto px-6 sm:px-8 xl:px-12 py-6 sm:py-8 border-t border-white/10">
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-center sm:text-left">
           <div className="flex items-center justify-center sm:justify-start gap-2.5 text-xs text-slate-400">
             <Truck className="w-4 h-4 text-slate-300" />

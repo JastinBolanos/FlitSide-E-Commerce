@@ -33,8 +33,8 @@ export const Footer: React.FC<FooterProps> = ({
 
   return (
     <footer className="bg-white border-t border-slate-200 mt-20 text-xs text-slate-500">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
+      <div className="w-full max-w-[1840px] mx-auto px-4 sm:px-6 lg:px-10 xl:px-14 py-12 sm:py-16">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 xl:gap-12 mb-8">
           {/* Brand info */}
           <div className="md:col-span-2 space-y-3">
             <div className="flex items-center gap-3">
@@ -43,7 +43,7 @@ export const Footer: React.FC<FooterProps> = ({
                 Official
               </span>
             </div>
-            <p className="text-xs text-slate-500 max-w-sm leading-relaxed">
+            <p className="text-xs text-slate-500 max-w-md leading-relaxed">
               Contemporary fashion and forward design crafted with premium textiles. Every FlitSide garment is engineered to endure and express your distinctive style.
             </p>
             <div className="flex items-center gap-4 text-[11px] text-slate-400 pt-1">

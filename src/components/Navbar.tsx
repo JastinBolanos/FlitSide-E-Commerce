@@ -50,7 +50,7 @@ export const Navbar: React.FC<NavbarProps> = ({
       </div>
 
       {/* Main Nav Bar */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="w-full max-w-[1840px] mx-auto px-4 sm:px-6 lg:px-10 xl:px-14">
         <div className="flex items-center justify-between h-18">
           {/* Mobile menu button */}
           <div className="flex items-center sm:hidden">
@@ -89,9 +89,9 @@ export const Navbar: React.FC<NavbarProps> = ({
 
           {/* Center Search Input (Store view only, Desktop) */}
           {currentView === 'store' && (
-            <div className="hidden lg:flex items-center flex-1 max-w-sm mx-8">
+            <div className="hidden lg:flex items-center flex-1 max-w-md xl:max-w-xl mx-6 xl:mx-10">
               <div className="relative w-full">
-                <Search className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none" />
+                <Search className="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2 pointer-events-none" />
                 <input
                   id="navbar-search-desktop"
                   type="text"
